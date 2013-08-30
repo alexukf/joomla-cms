@@ -25,10 +25,18 @@ $ -> Language fix or change
 - -> Removed
 ! -> Note
 
+28-Aug-2013 Michael Babker
+ $^ [#31009] Add a switch to turn mail sending on/off.  Thanks Roland Dalmulder
+
+28-Aug-2013 Jean-Marie Simonet
+ #^ [#31389] TinyMCE 4.0.5 Update. Thanks George Wilson
+ + [#31774] Add the Framework DI Container to the CMS. Thanks Don Gilbert
+
 27-Aug-2013 Jean-Marie Simonet
  # [#31795] No Bootstrap dropdown FE newsfeed category + tags. Thanks Tobias Zulauf
  # [#31836] *JFile::makeSafe lets upload files with space in name
  # [#31545] Numeric tags and SEF. Thanks Marco Richter
+ # [#31838] Make the contact modal form field work on non-mysql db's. Thanks George Wilson
 
 25-Aug-2013 Jean-Marie Simonet
  # [#31830] Fatal pass by reference error in MediaHelper Take 2. Thanks Elin Waring
